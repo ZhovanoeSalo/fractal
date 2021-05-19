@@ -1,0 +1,11 @@
+body {
+    background-image: url(../img/backgr.jpg); /* Путь к фоновому изображению */
+    background-attachment: fixed; /* Фиксируем фон веб-страницы */
+   }
+    header {
+    background-image: url(../img/шапка.jpg); /* Цвет фона и путь к файлу */
+   }
+   a:active{
+    color: aqua;
+    font-size: large;
+   }
